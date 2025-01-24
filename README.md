@@ -1,15 +1,22 @@
-<div align="left">
-  <a href="https://www.linkedin.com/in/sharat-chandra-kompella-561707256/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
+<h1 align="center">Hi 👋, I'm K V S Sharat Chandra</h1>
+<h3 align="center">Cybersecurity enthusiast with expertise in ethical hacking, penetration testing, and network security. Proven ability to identify, analyze, and resolve security vulnerabilities to enhance system protection</h3>
+
+- 🔭 I’m currently working on **Bug Hunting**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sharatc2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharatc2004" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sharat-chandra-kompella-561707256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharat-chandra-kompella-561707256/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+
 
 ###
 
-<img align="right" height="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frare-gallery.com%2Fmocahbig%2F408899-Kali-Linux-Linux-Backtrack-Linux-glitch-art.jpg&f=1&nofb=1&ipt=7f718401a8ca76f3a71e546f343e984cca27a7933cee770e0297031d3f110cf3&ipo=images"  />
+
 
 ###
 
