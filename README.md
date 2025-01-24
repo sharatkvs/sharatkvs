@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm K V S Sharat Chandra</h1>
-<h3 align="center">ybersecurity enthusiast with expertise in ethical hacking, penetration testing, and network security. Proven ability to identify, analyze, and resolve security vulnerabilities to enhance system protection</h3>
+<h3 align="center">Cybersecurity enthusiast with expertise in ethical hacking, penetration testing, and network security. Proven ability to identify, analyze, and resolve security vulnerabilities to enhance system protection</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
