@@ -109,15 +109,6 @@ Built from scratch to test JWT authentication vulnerabilities:
 ---
 
 ---
-
-## GitHub Stats 👨‍💻
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharatkvs&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharatkvs&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharatkvs&theme=github-dark-blue&hide_border=true"/>
 </p>
