@@ -91,7 +91,7 @@ Scans any domain for DNS records, subdomains, open ports, SSL issues, missing se
 
 No pip install. Works anywhere Python 3 is installed.
 
-→ **[View ReconX](https://github.com/sharatkvs/reconx)**
+→ **[View ReconX](https://github.com/sharatkvs/Reconx)**
 
 ---
 
@@ -104,16 +104,10 @@ Built from scratch to test JWT authentication vulnerabilities:
 - `forge` — creates valid signed tokens with any claims once secret is known
 - `confuse` — RS256 → HS256 algorithm confusion using public key *(CVE-2016-10555)*
 
-→ **[View JWTBreaker](https://github.com/sharatkvs/jwtbreaker)**
+→ **[View JWTBreaker](https://github.com/sharatkvs/jwt_breaker)**
 
 ---
 
----
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharatkvs&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
 
 <p align="center">
   <i>"The quieter you become, the more you are able to hear."</i>
