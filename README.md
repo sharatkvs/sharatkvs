@@ -1,131 +1,133 @@
-<h1 align="center">Hi, I'm K V S Sharat Chandra</h1>
-<h3 align="center">Cybersecurity Analyst · Bug Bounty Hunter </h3>
-
-<br/>
+<h1 align="center">Hey there 👋, I'm <code>Sharat</code></h1>
+<h3 align="center">Bug Hunter · Security Researcher </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sharat-chandra-561707256/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://x.com/Sharatchandra_1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   &nbsp;
-  &nbsp;
   <a href="https://bugcrowd.com/h/Sharat_Chandra" target="_blank">
-    <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## About Me
+I'm `sharat chandra`, a security researcher and bug hunter who enjoys breaking things to understand how they really work. I focus on offensive security — web apps, APIs, mobile, thick clients — finding real vulnerabilities in real targets.
 
-I'm a cybersecurity professional currently working as a VAPT Intern at **iGaruda Secure Cyber Solutions**, where I do web application and network penetration testing for real clients every day.
-
-On the side I hunt bugs on Bugcrowd — 9 valid vulnerabilities submitted so far, sitting at the **84th percentile globally** for high-severity findings, with a **88.89% submission accuracy rate**. Got Hall of Fame recognition from **NASA**, **McDonald's**, and **Broadcom** along the way.
-
+I hunt on Bugcrowd, and I'm always learning something new in this field. Got Hall of Fame recognition from **NASA**, **McDonald's**, and **Broadcom** — still going.
 
 ---
 
-## What I Work On
+## More about me
 
-**Web Application Security**
-Testing for OWASP Top 10, authentication flaws, IDOR, business logic vulnerabilities, and misconfigured servers. Comfortable with both manual testing and automation.
-
-**API Security**
-REST and GraphQL API testing — broken object level authorization, excessive data exposure, improper rate limiting, JWT vulnerabilities. APIs are often where the real findings hide.
-
-**Mobile Security (Android)**
-Static and dynamic analysis of Android APKs. Looking for insecure data storage, improper certificate validation, hardcoded secrets, and exposed components.
-
-**Thick Client Security**
-Testing desktop applications for traffic interception vulnerabilities, insecure local storage, DLL hijacking, and memory-based exposures using tools like Wireshark and Burp Suite.
-
-**Network Security & Threat Intelligence**
-Network penetration testing, OSINT, exposed asset discovery, leaked credential hunting, and SOC alert monitoring using Wazuh SIEM.
+* 🔎 **Bug Hunter | Security Researcher | Penetration Tester**
+* 🌐 Good at **Web, API, Network and Thick Client Security** — always improving
+* 🔧 I build offensive security tools when existing tools don't cut it
+* 🧠 Strong in **VAPT, JWT attacks, CORS testing, recon automation**
+* 🚩 **Hall of Fame** — NASA, McDonald's, Broadcom and more
+* 📖 Lifelong learner — always exploring, always breaking things
 
 ---
 
-## Currently Learning
+## Present Status
 
-I never stop at what I already know. Right now I'm going deeper into:
+👉 Actively hunting bugs on **Bugcrowd** — web and Android targets  
+👉 Learning **Malware Analysis** and **Reverse Engineering** from scratch  
+👉 Going deeper into **Azure Security** and **Active Directory attacks**  
+👉 Building and improving my own **offensive security tools in Python**  
+👉 Levelling up in **Secure Code Review** and **Mobile Pentesting**  
+👉 Exploring **Thick Client Security** — still a lot to uncover there  
 
-- **Malware Analysis** — understanding how malicious software behaves at the binary level
-- **Reverse Engineering** — assembly language, static and dynamic analysis of binaries
-- **Azure Security** — cloud attack surface, misconfigurations, identity and access management
-- **Secure Code Review** — reading source code to find vulnerabilities before they ship
-- **Active Directory Attacks** — Kerberoasting, Pass-the-Hash, BloodHound enumeration
+`Current journey:` Becoming a well-rounded offensive security specialist — one domain at a time.
 
 ---
 
-## Tools I Use Regularly
+## Knowledge & Skills
 
-| Category | Tools |
-|----------|-------|
-| Web Testing | Burp Suite, OWASP ZAP, SQLMap, Nikto, Gobuster |
-| Network | Nmap, Wireshark, Metasploit, Nessus, Acunetix |
-| SIEM / SOC | Wazuh |
-| API Testing | Postman, Burp Suite |
-| OSINT & Recon | Custom Python tools, Shodan |
-| OS | Kali Linux, Ubuntu, Windows |
+```
+Web Application Security      ██████████████░░░░░░   Good
+API Security                  ██████████████░░░░░░   Good
+Network Security              █████████████░░░░░░░   Good
+Thick Client Security         █████████████░░░░░░░   Good
+Mobile Security (Android)     ████████████░░░░░░░░   Good
+Malware Analysis              ██████░░░░░░░░░░░░░░   Learning
+Reverse Engineering           █████░░░░░░░░░░░░░░░   Learning
+Active Directory              █████░░░░░░░░░░░░░░░   Learning
+Azure Security                ████░░░░░░░░░░░░░░░░   Learning
+```
+
+---
+
+## Tools I Work With
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-005571?style=flat-square&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Acunetix](https://img.shields.io/badge/Acunetix-D50000?style=flat-square&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-4B0082?style=flat-square&logoColor=white)
 
 ---
 
 ## Projects I Built
 
-### ReconX — Web Recon & Security Posture Scanner
-A reconnaissance tool I wrote in Python with zero external dependencies.
-Point it at any domain and it automatically runs 10 security checks:
-DNS enumeration, subdomain discovery, port scanning, SSL inspection,
-security header analysis, CORS misconfiguration detection, sensitive file exposure,
-WAF identification, technology fingerprinting, and cookie security auditing.
-Saves a full HTML report at the end.
+### 🔍 ReconX — Web Recon & Security Posture Scanner
+> Zero dependencies. Pure Python. 10 security checks in one tool.
 
-Everything runs on Python's standard library — no pip install, no setup.
+Scans any domain for DNS records, subdomains, open ports, SSL issues, missing security headers, CORS misconfigs, sensitive exposed files, WAF presence, tech stack, and cookie security flags. Saves everything into a clean HTML report.
 
-→ [View Repository](https://github.com/sharatkvs/reconx)
+No pip install. Works anywhere Python 3 is installed.
+
+→ **[View ReconX](https://github.com/sharatkvs/reconx)**
 
 ---
 
-### JWTBreaker — JWT Security Testing Toolkit
-An offensive toolkit for testing JWT authentication vulnerabilities.
-Implements four real attack techniques from scratch:
+### 🔑 JWTBreaker — JWT Security Testing Toolkit
+> Four real JWT attacks. One tool. Zero external libraries.
 
-- **alg:none attack** — strips the signature, tests if the server accepts unsigned tokens (CVE-2015-9235)
-- **Secret cracking** — brute-forces weak HMAC keys, processes 200k+ candidates per second
-- **Token forging** — creates valid signed tokens with modified claims (role=admin etc.) once the secret is known
-- **Algorithm confusion** — RS256 to HS256 attack using the server's public key (CVE-2016-10555)
+Built from scratch to test JWT authentication vulnerabilities:
+- `alg:none` — strips signature, tests if server accepts unsigned tokens *(CVE-2015-9235)*
+- `crack` — brute-forces weak HMAC secrets at 200k+ candidates/sec
+- `forge` — creates valid signed tokens with any claims once secret is known
+- `confuse` — RS256 → HS256 algorithm confusion using public key *(CVE-2016-10555)*
 
-Also has a live scanner that finds JWTs in cookies, headers, and JSON responses automatically.
-Written using only Python's standard library — no PyJWT, no external packages.
-
-→ [View Repository](https://github.com/sharatkvs/jwt_breaker)
+→ **[View JWTBreaker](https://github.com/sharatkvs/jwtbreaker)**
 
 ---
 
-
-## Certifications
-
-- CEH v13 — Certified Ethical Hacker (EC-Council)
-- Penetration Testing, Web Security Testing & Bug Bounty Hunting (ZSecurity)
-- IT Security: Defense Against the Digital Dark Arts (Google)
-- Postman API Fundamentals Student Expert
-
 ---
 
-## Stats
+## GitHub Stats 👨‍💻
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharatkvs&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sharatkvs&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharatkvs&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharatkvs&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharatkvs&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>Open to collaborating on security research, CTF challenges, and bug bounty. Feel free to reach out.</i>
+  <i>"The quieter you become, the more you are able to hear."</i>
 </p>
 
+<p align="center">
+  Open to CTFs · Bug Bounty Collabs · Security Research
+</p>
