@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm K V S Sharat Chandra</h1>
-<h3 align="center">Cybersecurity Analyst · Bug Bounty Hunter · Offensive Tool Developer</h3>
+<h3 align="center">Cybersecurity Analyst · Bug Bounty Hunter </h3>
 
 <br/>
 
